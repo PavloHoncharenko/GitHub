@@ -1,2 +1,2 @@
-s = 'qwertyuiopasdfghjklzxcvbnm'
-print(s.upper())
+def get_upper(s = ""):
+    return s.upper()
